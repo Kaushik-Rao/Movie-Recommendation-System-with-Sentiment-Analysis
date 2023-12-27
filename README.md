@@ -1,5 +1,13 @@
 # Movie-Recommender-System-with-sentiment-analysis
 
+![image](https://github.com/Kaushik-Rao/Movie-Recommendation-System-with-Sentiment-Analysis/assets/82809753/d4d3e08c-4866-46a4-bfe3-38ff929a5941)
+
+![image](https://github.com/Kaushik-Rao/Movie-Recommendation-System-with-Sentiment-Analysis/assets/82809753/ef577785-b910-4ad2-a756-752535803491)
+
+![image](https://github.com/Kaushik-Rao/Movie-Recommendation-System-with-Sentiment-Analysis/assets/82809753/e25c21d0-68ec-412b-a55f-43cbf901fd25)
+
+![image](https://github.com/Kaushik-Rao/Movie-Recommendation-System-with-Sentiment-Analysis/assets/82809753/5680b29e-2594-4049-8670-49bffff08f8a)
+
 
 ### Sources of the datasets 
 

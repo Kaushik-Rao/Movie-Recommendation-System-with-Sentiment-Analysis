@@ -9,6 +9,11 @@
 ![image](https://github.com/Kaushik-Rao/Movie-Recommendation-System-with-Sentiment-Analysis/assets/82809753/5680b29e-2594-4049-8670-49bffff08f8a)
 
 
+Project Architecture
+
+![achitecture](https://github.com/user-attachments/assets/43b606f0-0706-4984-b7ad-68cd15ee8122)
+
+
 ### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
